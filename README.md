@@ -4,4 +4,4 @@
 
 - Built with HTML, CSS, Bootstrap, JavaScript, and jQuery.
 
-- https://github.com/WilliamBork33# RockPaperScissors
+- https://github.com/WilliamBork33
