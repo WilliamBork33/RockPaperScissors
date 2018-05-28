@@ -157,4 +157,4 @@ $(document).ready(function () {
         document.getElementById("computer_score").innerHTML = computerScore;
     }
 
-});.
+});
